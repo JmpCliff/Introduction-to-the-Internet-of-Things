@@ -1,15 +1,7 @@
+//-*- coding : UTF-8 -*-
 
 #ifndef _WZSERIALPORT_H
 #define _WZSERIALPORT_H
-
-/*
-	作者：欧阳伟
-	日期：2017-12-14
-	类名：WZSerialPort
-	用途：串口读写
-	示例：
-		参考 main.cpp	
-*/
 
 class WzSerialPort
 {

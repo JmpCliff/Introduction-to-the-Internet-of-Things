@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21mm"
+   height="29mm"
+   viewBox="0 0 21 29"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="蓝牙HC06.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1089995"
+     inkscape:cx="357.98965"
+     inkscape:cy="146.04081"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000080;stroke-width:0.0332891"
+       id="rect546"
+       width="10.290323"
+       height="20.981524"
+       x="4.997179"
+       y="2.4204566" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.742054px;fill:#000000;stroke-width:0.0618377"
+       x="10.478485"
+       y="17.562992"
+       id="text1054-4"
+       transform="scale(0.81366344,1.2290094)"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.0618377"
+         x="10.478485"
+         y="17.562992"
+         id="tspan1273">TXD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.742054px;fill:#000000;stroke-width:0.0618377"
+       x="12.622025"
+       y="17.562992"
+       id="text1054-6"
+       transform="scale(0.81366344,1.2290094)"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.0618377"
+         x="12.622025"
+         y="17.562992"
+         id="tspan1056-2">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.742054px;fill:#000000;stroke-width:0.0618377"
+       x="14.765564"
+       y="17.562988"
+       id="text1054-5"
+       transform="scale(0.81366344,1.2290094)"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.0618377"
+         x="14.765564"
+         y="17.562988"
+         id="tspan1056-6">VCC</tspan></text>
+    <rect
+       style="fill:#008000;stroke-width:0.0332891"
+       id="rect548"
+       width="8.9822302"
+       height="18.330263"
+       x="5.6512241"
+       y="2.4204566" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.0452458"
+       id="path605"
+       cx="5.9128437"
+       cy="22.464893"
+       rx="0.56683981"
+       ry="0.61710358" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.0446619"
+       id="rect681"
+       width="1.1772826"
+       height="1.2799186"
+       x="6.8285084"
+       y="21.710659" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.0446619"
+       id="rect681-5"
+       width="1.1772826"
+       height="1.2799186"
+       x="8.5944309"
+       y="21.710659" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.0446619"
+       id="rect681-54"
+       width="1.1772826"
+       height="1.2799186"
+       x="10.425764"
+       y="21.756367" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.0446619"
+       id="rect681-8"
+       width="1.1772826"
+       height="1.2799186"
+       x="12.169882"
+       y="21.756367" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.0452458"
+       id="path605-9"
+       cx="14.415442"
+       cy="22.442043"
+       rx="0.56683981"
+       ry="0.61710358" />
+    <rect
+       style="fill:#000000;stroke-width:0.0361071"
+       id="rect907"
+       width="5.8428102"
+       height="9.1422758"
+       x="6.2616673"
+       y="4.2489095" />
+    <rect
+       style="fill:#000000;stroke-width:0.0295255"
+       id="rect911"
+       width="5.1451612"
+       height="3.9768898"
+       x="6.4638309"
+       y="15.072129" />
+    <rect
+       style="fill:#666666;stroke-width:0.0332891"
+       id="rect915"
+       width="1.4389011"
+       height="3.4283533"
+       x="12.671316"
+       y="4.7974477" />
+    <rect
+       style="fill:#666666;stroke-width:0.0332891"
+       id="rect969"
+       width="1.2208856"
+       height="1.2799184"
+       x="12.758528"
+       y="10.465661" />
+    <rect
+       style="fill:#666666;stroke-width:0.0332891"
+       id="rect971"
+       width="1.4825041"
+       height="0.73138201"
+       x="12.278891"
+       y="15.676755" />
+    <rect
+       style="fill:#666666;stroke-width:0.0332891"
+       id="rect973"
+       width="1.5697103"
+       height="0.45711377"
+       x="12.235289"
+       y="16.728115" />
+    <rect
+       style="fill:#666666;stroke-width:0.0332891"
+       id="rect975"
+       width="1.4389011"
+       height="0.63995922"
+       x="12.278891"
+       y="17.459499" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.742054px;fill:#000000;stroke-width:0.0618377"
+       x="8.4202499"
+       y="17.553589"
+       id="text1054"
+       transform="scale(0.81366348,1.2290093)"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.0618377"
+         x="8.4202499"
+         y="17.553589"
+         id="tspan1056">RXD</tspan></text>
+    <rect
+       style="fill:#808080;stroke-width:0.0332891"
+       id="rect1308"
+       width="0.43603063"
+       height="4.708272"
+       x="7.2209339"
+       y="22.259197" />
+    <rect
+       style="fill:#808080;stroke-width:0.0332891"
+       id="rect1308-0"
+       width="0.43603063"
+       height="4.708272"
+       x="8.9650555"
+       y="22.282047" />
+    <rect
+       style="fill:#808080;stroke-width:0.0332891"
+       id="rect1308-8"
+       width="0.43603063"
+       height="4.708272"
+       x="10.839987"
+       y="22.327763" />
+    <rect
+       style="fill:#808080;stroke-width:0.0332891"
+       id="rect1308-2"
+       width="0.43603063"
+       height="4.708272"
+       x="12.584112"
+       y="22.37347" />
+  </g>
+</svg>

@@ -1,3 +1,4 @@
+//-*- coding : UTF-8 -*-
 
 #include "WzSerialPort.h"
 #include "tchar.h"

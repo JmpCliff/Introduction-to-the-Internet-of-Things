@@ -1,3 +1,5 @@
+//-*- coding : GBK -*-
+
 #include <iostream>
 #include "tchar.h"
 #include <string>
@@ -5,7 +7,6 @@
 #include <windows.h>
 
 using namespace std;
-
 
 #define BUTTON_FLAG 1001
 #define BUTTON_COM 1002
@@ -21,7 +22,7 @@ HWND Text_com;
 
 int flag=0;
 int remoteIsOpen=0;
-int remoteIsOn=0;
+//int remoteIsOn=0;
 
 char com_name[0x20]={0};
 
@@ -120,7 +121,7 @@ LRESULT CALLBACK WindowProc(
                         {
                             if(flag){
                                 flag=0;
-                                remoteIsOn=0;
+                                //remoteIsOn=0;
                                 if(ATB)
                                      CloseHandle(ATB);
                                 else
@@ -130,14 +131,15 @@ LRESULT CALLBACK WindowProc(
                             }else{
 
                                 if(!remoteIsOpen){
-                                    MessageBox(hwnd, _T("请先打开串口"), _T("提示"), MB_OK | MB_ICONINFORMATION);	
+                                    MessageBox(hwnd, _T("请先打开串口"), _T("提示"), MB_OK | MB_ICONINFORMATION);
+                                    break;	
                                 }
                                 if(ATB)
                                     CloseHandle(ATB);
                                 Thread_args tg;
                                 tg.r=&remote;
                                 flag=1;
-                                remoteIsOn=1;
+                                //remoteIsOn=1;
                                 ATB=CreateThread(NULL,0,(LPTHREAD_START_ROUTINE)AltTAB,&tg,0,NULL);
                                 SendMessage(HWND(lParam), WM_SETTEXT, NULL,(LPARAM)_T("Stop"));
                             }
@@ -184,8 +186,6 @@ DWORD WINAPI AltTAB(LPVOID lpParameter){
             char buf[1024];
             r->receive(buf,1024);
             if(!strncmp(buf,"CATCH!",6)&&flag){
-                
-                cout<<buf;
                 keybd_event(VK_MENU,0,0,0);
                 keybd_event(VK_TAB,0,0,0);
                 keybd_event(VK_TAB,0,KEYEVENTF_KEYUP,0);
@@ -198,4 +198,3 @@ DWORD WINAPI AltTAB(LPVOID lpParameter){
         }
     }
 }
-

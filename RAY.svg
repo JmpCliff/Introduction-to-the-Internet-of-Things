@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25mm"
+   height="29mm"
+   viewBox="0 0 25 29"
+   version="1.1"
+   id="svg1501"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="RAY.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1503"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9825758"
+     inkscape:cx="-36.545593"
+     inkscape:cy="92.872746"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1498" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000080;stroke-width:0.0509104"
+       id="rect1505"
+       width="17.387093"
+       height="19.096296"
+       x="4.6129012"
+       y="8.9359808" />
+    <ellipse
+       style="fill:#000080;stroke-width:0.0514809"
+       id="path1561"
+       cx="13.271254"
+       cy="8.5296774"
+       rx="8.65835"
+       ry="7.110321" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.0296972"
+       id="path1563"
+       cx="13.200857"
+       cy="8.6651144"
+       rx="4.7867298"
+       ry="4.6724968" />
+    <ellipse
+       style="fill:#cccccc;stroke-width:0.0514809"
+       id="path1671"
+       cx="13.236055"
+       cy="8.6312513"
+       rx="4.2587819"
+       ry="4.0968995" />
+    <ellipse
+       style="fill:#d4aa00;stroke-width:0.0514809"
+       id="path1725"
+       cx="13.27125"
+       cy="15.84315"
+       rx="1.9006133"
+       ry="1.8283682" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.0514809"
+       id="path2143"
+       cx="13.236055"
+       cy="15.877009"
+       rx="0.31676891"
+       ry="0.30472806" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.0514809"
+       id="path2145"
+       cx="7.1470542"
+       cy="25.188148"
+       rx="1.9006133"
+       ry="1.8283682" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.0514809"
+       id="path2145-6"
+       cx="19.536238"
+       cy="25.255867"
+       rx="1.9006133"
+       ry="1.8283682" />
+    <rect
+       style="fill:#000000;stroke-width:0.0514809"
+       id="rect2763"
+       width="1.7598273"
+       height="1.8283682"
+       x="9.9627743"
+       y="24.443253" />
+    <rect
+       style="fill:#000000;stroke-width:0.0514809"
+       id="rect2763-5"
+       width="1.7598273"
+       height="1.8283682"
+       x="12.461733"
+       y="24.477112" />
+    <rect
+       style="fill:#000000;stroke-width:0.0514809"
+       id="rect2763-9"
+       width="1.7598273"
+       height="1.8283682"
+       x="14.855093"
+       y="24.477112" />
+    <rect
+       style="fill:#808080;stroke-width:0.0514809"
+       id="rect2800"
+       width="1.1262894"
+       height="1.0834775"
+       x="10.314741"
+       y="24.849556" />
+    <rect
+       style="fill:#808080;stroke-width:0.0514809"
+       id="rect2800-2"
+       width="1.1262894"
+       height="1.0834775"
+       x="12.778502"
+       y="24.849556" />
+    <rect
+       style="fill:#808080;stroke-width:0.0514809"
+       id="rect2800-29"
+       width="1.1262894"
+       height="1.0834775"
+       x="15.171865"
+       y="24.849556" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.10562px;fill:#808080;stroke-width:0.0921347"
+       x="9.9778843"
+       y="23.254847"
+       id="text2904"
+       transform="scale(0.96778927,1.0332828)"><tspan
+         sodipodi:role="line"
+         id="tspan2902"
+         style="stroke-width:0.0921347"
+         x="9.9778843"
+         y="23.254847">OUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.10562px;fill:#808080;stroke-width:0.0921347"
+       x="12.646997"
+       y="23.27141"
+       id="text2904-5"
+       transform="scale(0.96778927,1.0332828)"><tspan
+         sodipodi:role="line"
+         id="tspan2902-3"
+         style="stroke-width:0.0921347"
+         x="12.646997"
+         y="23.27141">+5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.10562px;fill:#808080;stroke-width:0.0921347"
+       x="15.192755"
+       y="23.27141"
+       id="text2904-3"
+       transform="scale(0.96778927,1.0332828)"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0921347"
+         x="15.192755"
+         y="23.27141"
+         id="tspan3000">GND</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.0593286"
+       id="rect3028"
+       width="1.7598271"
+       height="2.3023896"
+       x="10.525923"
+       y="20.041634" />
+    <rect
+       style="fill:#2b0000;stroke-width:0.0529734"
+       id="rect3032"
+       width="1.9710065"
+       height="1.2189121"
+       x="13.412035"
+       y="20.447929" />
+    <rect
+       style="fill:#999999;stroke-width:0.0514809"
+       id="rect3086"
+       width="1.1262894"
+       height="0.81260812"
+       x="9.470026"
+       y="18.551849" />
+    <rect
+       style="fill:#999999;stroke-width:0.0463192"
+       id="rect3088"
+       width="0.774324"
+       height="1.1511948"
+       x="11.652212"
+       y="18.416412" />
+    <rect
+       style="fill:#999999;stroke-width:0.0669032"
+       id="rect3090"
+       width="0.84471714"
+       height="1.2866296"
+       x="13.693609"
+       y="18.416412" />
+    <rect
+       style="fill:#999999;stroke-width:0.0514809"
+       id="rect3092"
+       width="1.1966826"
+       height="0.47402138"
+       x="15.312651"
+       y="18.551849" />
+  </g>
+</svg>
